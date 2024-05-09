@@ -42,5 +42,11 @@
 🧨 What I'm interest in <br/>
 - [Ton Blockchain](https://ton.org/) (Ton SDK, Wallets, FunC)
 
-🧨 What I'm doing now <br/>
-- **Casino Platform Development** 💥
+💥 What I'm doing now <br/>
+- **Casino Platform Development** <br/>
+
+📞 How to contact me <br/>
+- Discord: #inapeace0 <br/>
+- Telegram: @inapeace0 <br/>
+
+😉 Always online, so you can shoot a msg at any time. Welcome to any suggestion. 🤗 <br/>
