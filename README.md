@@ -1,7 +1,7 @@
 
 **Experienced Software Engineer specializing in Blockchain technology with expertise in various facets of the field. Offering proactive collaboration, adept problem-solving skills, strong project management abilities, and consultancy services.**
 
-🧨What I can offer
+🧨 What I can offer
 
 - Proactive collaboration <br/>
 - Problem-solving <br/>
@@ -17,6 +17,9 @@
  ✔ Tron (Full Node & LiteFullNode) <br/>
 - Skilled in working with EVM & No-EVM chains including (Ethereum, L2s, BSC, Polygon, Tron, Avalanche, Cronos, Hedera, Solana, Ton) <br/>
 - Experienced in developing Decentralized Applications across multiple platforms (Web, Mobile, Desktop) <br/>
+ ✔ React.js, Next.js, Laravel, Django <br/>
+ ✔ React Native, Flutter <br/>
+ ✔ Progressive Web Application (PWA) <br/>
 - Specialized in Non-Fungible Token (NFT) Development <br/>
  ✔ NFT art generation <br/>
  ✔ Upload artworks onto IPFS and cloud storage <br/>
