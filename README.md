@@ -15,7 +15,7 @@
  ✔ BSC (Geth) <br/>
  ✔ Polygon (Heimdall & Bor) <br/>
  ✔ Tron (Full Node & LiteFullNode) <br/>
-- Skilled in working with EVM & No-EVM chains including (Ethereum, L2s, BSC, Polygon, Tron, Avalanche, Cronos, Hedera, Solana) <br/>
+- Skilled in working with EVM & No-EVM chains including (Ethereum, L2s, BSC, Polygon, Tron, Avalanche, Cronos, Hedera, Solana, Base, Blast, Optimism, Arbitrum) <br/>
 - Familiar with Ethereum Layer 2 (optimistic & zero-knowledge)
 - Experienced in developing decentralized applications across multiple platforms (Web, Mobile, Desktop) <br/>
  ✔ React.js, Next.js, Laravel, Django <br/>
