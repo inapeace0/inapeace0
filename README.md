@@ -43,6 +43,7 @@
 - Knowledgeable in Decentralized Exchange operations including Uniswap and customization. <br/>
 - Proficient in handling tasks related to Presale, ICO, IDO, IFO, Staking <br/>
 - Bot Development (Sniper, MEV, Arbitrage, Trading) <br/>
+- Telegram Bot Development <br/>
 
 🧨 What I'm interest in <br/>
 - [Ton Blockchain](https://ton.org/) (Ton SDK, Wallets, FunC)
